@@ -15,6 +15,14 @@ It is imperitive for your team that your Rubocop configuration is flexible and s
 - Custom Cop template with basic documentation
 - A few of my own custom cops
 
+# Files
+
+- [.rubocop.yml](https://github.com/westonganger/rubocop_template_for_productive_teams/blob/master/.rubocop.yml)
+- [Gemfile](https://github.com/westonganger/rubocop_template_for_productive_teams/blob/master/Gemfile)
+- [rubocop/load_all_custom_cops.rb](https://github.com/westonganger/rubocop_template_for_productive_teams/blob/master/rubocop/load_all_custom_cops.rb)
+- [rubocop/cop_template.rb](https://github.com/westonganger/rubocop_template_for_productive_teams/blob/master/rubocop/cop_template.rb)
+- [rubocop/custom_cops/](https://github.com/westonganger/rubocop_template_for_productive_teams/tree/master/rubocop/custom_cops/)
+
 # Credits
 
 Created by [Weston Ganger](https://westonganger.com) - [@westonganger](https://github.com/westonganger)
