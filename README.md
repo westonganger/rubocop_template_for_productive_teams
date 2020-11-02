@@ -2,9 +2,8 @@
 
 Rubocop starter setup that is a great for teams that want to develop quickly and without restrictions.
 
-I have been bitten way too many times by bad Rubocop configurations on projects and most of this stems from that fact that the Rubocop defaults are too restrictive and opinionated in a bad way. Ruby was built for developer happiness but unfortunately using the default Rubocop setup seems to take away the joy of development.
+It is imperitive for your team that your Rubocop configuration is flexible and super-powers your development workflow. Too many projects suffer from slowed development because of their Rubocop configuration. Most of this stems from that fact that the Rubocop defaults are too restrictive and opinionated in a bad way. Ruby was built for developer happiness but unfortunately using the default Rubocop setup seems to take away the joy of development. Use this template with Rubocop to bring back your Ruby joy
 
-It is imperitive for your team that your Rubocop configuration is flexible and super-powers your development workflow. Too many projects suffer from slowed development because of their Rubocop configuration.
 
 # Features
 
