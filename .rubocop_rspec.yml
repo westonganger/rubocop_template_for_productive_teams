@@ -1,0 +1,129 @@
+##########################################################
+# RSpec - rubocop-rspec
+##########################################################
+
+RSpec/Capybara/FeatureMethods:
+  Enabled: false
+
+RSpec/AlignLeftLetBrace:
+  Enabled: false
+
+RSpec/AlignRightLetBrace:
+  Enabled: false
+
+RSpec/BeEql:
+  Enabled: false
+
+RSpec/BeforeAfterAll:
+  Enabled: false
+  
+RSpec/ContextWording:
+  Enabled: false
+  
+RSpec/DescribeClass:
+  Enabled: false 
+
+RSpec/DescribeMethod:
+  Enabled: false
+
+RSpec/DescribeSymbol:
+  Enabled: false
+  
+RSpec/DescribedClass:
+  Enabled: false
+
+RSpec/DescribedClassModuleWrapping:
+  Enabled: false
+
+RSpec/Dialect:
+  Enabled: false
+
+RSpec/EmptyExampleGroup:
+  Enabled: false
+
+RSpec/EmptyHook:
+  Enabled: false
+  
+RSpec/EmptyLineAfterFinalLet:
+  Enabled: false
+
+RSpec/EmptyLineAfterHook:
+  Enabled: false
+
+RSpec/EmptyLineAfterSubject:
+  Enabled: false
+
+RSpec/ExampleLength:
+  Enabled: false
+
+RSpec/ExampleWording:
+  Enabled: false
+
+RSpec/FilePath:
+  Enabled: false
+
+RSpec/HookArgument:
+  Enabled: false
+
+RSpec/ImplicitBlockExpectation:
+  Enabled: false
+  
+RSpec/ImplicitExpect:
+  Enabled: false
+
+RSpec/InstanceVariable:
+  Enabled: false
+
+RSpec/ItBehavesLike:
+  Enabled: false
+
+RSpec/IteratedExpectation:
+  Enabled: false
+
+RSpec/MessageChain:
+  Enabled: false
+
+RSpec/MessageExpectation:
+  Enabled: false
+
+RSpec/NamedSubject:
+  Enabled: false
+
+RSpec/MultipleExpectations:
+  Enabled: false
+
+RSpec/MultipleMemoizedHelpers:
+  Enabled: false
+
+RSpec/NestedGroups:
+  Enabled: false
+
+RSpec/NotToNot:
+  Enabled: false
+
+RSpec/Pending:
+  Enabled: false
+
+RSpec/PredicateMatcher:
+  Enabled: false
+
+RSpec/ReceiveCounts:
+  Enabled: false
+
+RSpec/ReturnFromStub:
+  Enabled: false
+  
+RSpec/SharedExamples:
+  Enabled: false
+
+RSpec/StubbedMock:
+  Enabled: false
+
+RSpec/VariableDefinition:
+  Enabled: false
+  
+RSpec/VariableName:
+  Enabled: false
+  
+RSpec/VoidExpect:
+  Enabled: false

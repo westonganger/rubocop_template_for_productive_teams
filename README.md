@@ -17,6 +17,8 @@ It is imperitive for your team that your Rubocop configuration is flexible and s
 # Files
 
 - [.rubocop.yml](https://github.com/westonganger/rubocop_template_for_productive_teams/blob/master/.rubocop.yml)
+- [.rubocop_rspec.yml](https://github.com/westonganger/rubocop_template_for_productive_teams/blob/master/.rubocop_rspec.yml)
+- [.rubocop_minitest.yml](https://github.com/westonganger/rubocop_template_for_productive_teams/blob/master/.rubocop_minitest.yml)
 - [Gemfile](https://github.com/westonganger/rubocop_template_for_productive_teams/blob/master/Gemfile)
 - [rubocop/load_all_custom_cops.rb](https://github.com/westonganger/rubocop_template_for_productive_teams/blob/master/rubocop/load_all_custom_cops.rb)
 - [rubocop/cop_template.rb](https://github.com/westonganger/rubocop_template_for_productive_teams/blob/master/rubocop/cop_template.rb)
