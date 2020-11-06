@@ -56,7 +56,7 @@ module RuboCop
 
           add_offense(node, location: :name, message: MSG)
         end
-        alias on_ivasgn on_ivar
+        alias_method :on_ivasgn, :on_ivar
 
         def on_send(node)
           return unless instance_variable_call?(node)
