@@ -14,6 +14,17 @@ It is imperitive for your team that your Rubocop configuration is flexible and s
 - Custom Cop template with basic documentation
 - A few of my own custom cops
 
+# Instructions
+
+This is a good starting point for your organization if you want to start utilizing Rubocop.
+
+After you copy these files into your repository then you should:
+
+- Run it against your repository
+- Decide which cops you want to additionally disable
+  * Before you do this, Note that you can utilize autocorrect for a large majority of the failures
+- Optional: Decide which cops your organization wants to re-enable on a case-by-case basis
+
 # Files
 
 - [.rubocop.yml](https://github.com/westonganger/rubocop_template_for_productive_teams/blob/master/.rubocop.yml)
