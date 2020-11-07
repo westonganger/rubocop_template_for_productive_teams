@@ -204,9 +204,6 @@ Lint/HeredocMethodCallPosition:
 Lint/IdentityComparison:
   Enabled: false
 
-Lint/MissingSuper:
-  Enabled: false
-
 Lint/NonDeterministicRequireOrder:
   Enabled: false
 
